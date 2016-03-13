@@ -1,0 +1,10 @@
+album:
+    name: 'Ripples'
+    songs:
+#        ripples:
+#            guitar-std: 'ripples_guitar-std.wav'
+#            guitar-alt: 'ripples_guitar-alt.wav'
+        chains:
+            guitar: [ 'guitar-std_session.wav', 'guitar-alt_session.wav' ]
+            drums: [ 'drums-std_session.wav', 'drums-alt_session.wav' ]
+            bass: [ 'bass-std_session.wav', 'bass-alt_session.wav']
